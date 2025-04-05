@@ -7,10 +7,10 @@ Aquí encontrarás una colección de proyectos personales organizados en tres gr
 ## 🎮 Ocio
 Relacionados con el entretenimiento y los videojuegos:
 
-- 📘 [**Guides**](https://github.com/adriigs/Guides) – Guías diferentes sobre  juegos o herramientas.
 - 🕹 [**Games**](https://github.com/adriigs/Games) – Registro de los juegos que he jugado.
-- 🐹  [**Pokemon**](https://github.com/adriigs/Pokemon) – Retos, lockes y demás relacionador con el mundo de Pokémon.
+- 🐹 [**Pokemon**](https://github.com/adriigs/Pokemon) – Retos, lockes y demás relacionador con el mundo de Pokémon.
 - 🛠 [**Minecraft**](https://github.com/adriigs/Minecraft) – Archivos, mundos, mods o recursos sobre Minecraft.
+- 📘 [**Guides - Publications**](https://github.com/adriigs/Guides) – Guías diferentes sobre  juegos o herramientas.
 
 ---
 
