@@ -1,5 +1,7 @@
 # 👋 ¡Bienvenido/a a mi GitHub!
 
+Aquí encontrarás una colección de proyectos personales organizados en tres grandes temas que forman parte de mi día a día:
+
 ---
 
 ## 🎮 Ocio
@@ -8,7 +10,7 @@ Relacionados con el entretenimiento y los videojuegos:
 - 🕹 [**Games**](https://github.com/adriigs/Games) – Registro de los juegos que he jugado.  
 - 📘 [**Guides**](https://github.com/adriigs/Guides) – Guías diferentes sobre  juegos o herramientas.  
 - 🐹  [**Pokemon**](https://github.com/adriigs/Pokemon) – Retos, lockes y demás relacionador con el mundo de Pokémon.  
-- ⛏️🛠 [**Minecraft**](https://github.com/adriigs/Minecraft) – Archivos, mundos, mods o recursos sobre Minecraft.  
+- 🛠 [**Minecraft**](https://github.com/adriigs/Minecraft) – Archivos, mundos, mods o recursos sobre Minecraft.  
 
 ---
 
