@@ -5,7 +5,7 @@ Aquí encontrarás una colección de proyectos personales organizados en tres gr
 ---
 
 ## 🎮 Ocio
-Repositorios relacionados con el entretenimiento y los videojuegos:
+Relacionados con el entretenimiento y los videojuegos:
 
 - 🕹 [**Games**](https://github.com/adriigs/Games) – Registro de los juegos que he jugado.  
 - 📘 [**Guides**](https://github.com/adriigs/Guides) – Guías creadas por mí para diferentes juegos o herramientas.  
@@ -15,7 +15,7 @@ Repositorios relacionados con el entretenimiento y los videojuegos:
 ---
 
 ## 📚 Aprendizaje
-Repositorios que reflejan mi camino de crecimiento personal y profesional:
+Reflejo de mi camino de crecimiento personal y profesional:
 
 - 🗽 [**English**](https://github.com/adriigs/English) – Material de estudio, prácticas y recursos para mejorar mi inglés.  
 - 👨‍💻 [**Cybersecurity**](https://github.com/adriigs/Cybersecurity) – Apuntes, labs y proyectos relacionados con la ciberseguridad.  
