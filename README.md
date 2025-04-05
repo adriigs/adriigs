@@ -27,7 +27,7 @@ Todo lo que me ayuda a mantenerme sano y motivado:
 
 - 🏋️ [**Gym**](https://github.com/adriigs/Gym) – Rutinas, progresos y recursos sobre entrenamiento físico.  
 - 🥗 [**Nutrition**](https://github.com/adriigs/Nutrition) – Ideas, dietas y recursos relacionados con la alimentación.  
-- ⚽ [**RealPalos**](https://github.com/adriigs/RealPalos) – Estadísticas y seguimiento de mi equipo de fútbol.
+- ⚽ [**Real Palos**](https://github.com/adriigs/RealPalos) – Estadísticas y seguimiento de mi equipo de fútbol.
 
 ---
 
